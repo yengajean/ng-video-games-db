@@ -3,6 +3,13 @@
 This is a simple project to add tests on ng-video-games-db with cypress
 
 
+# Reporting
+
+- [Click here to see all report] (https://dashboard.cypress.io/projects/pdts8f/runs/2/overview)
+
+- https://dashboard.cypress.io/projects/pdts8f/runs/2/overvie0
+
+
 # How to install
 
 ```
