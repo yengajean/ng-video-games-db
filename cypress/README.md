@@ -1,4 +1,4 @@
- Ng-video-games-db end to end tests with cypress
+ # Ng-video-games-db end to end tests with cypress
 
 This is a simple project to add tests on ng-video-games-db with cypress
 
