@@ -1,4 +1,4 @@
-# Ng-video-games-db end to end tests with cypress
+ Ng-video-games-db end to end tests with cypress
 
 This is a simple project to add tests on ng-video-games-db with cypress
 
@@ -7,7 +7,7 @@ This is a simple project to add tests on ng-video-games-db with cypress
 
 - [Click here to see all report] (https://dashboard.cypress.io/projects/pdts8f/runs/2/overview)
 
-- https://dashboard.cypress.io/projects/pdts8f/runs/2/overvie0
+-https://dashboard.cypress.io/projects/pdts8f/runs/2/overview
 
 
 # How to install
@@ -27,4 +27,3 @@ $ npm run cypress
 All the tests files are located in the following path
 
 - cypress/integration
-
